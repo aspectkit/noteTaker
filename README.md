@@ -34,3 +34,4 @@ N/A
 ## Questions
 kitdhing\
 dhinkit@gmail.com
+![image](https://github.com/kitdhing/noteTaker/assets/106041120/8fc00feb-672e-486b-b3c4-17945758fbc4)
